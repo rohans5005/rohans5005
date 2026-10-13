@@ -1,107 +1,101 @@
-# Hi, I'm Rohan Sapate 👋
+# Rohan Sapate
 
-### MCA Student | Aspiring Cloud & DevOps Engineer | Java Developer
+### Aspiring Cloud & DevOps Engineer · Java Developer
 
-🎓 Currently pursuing **Master of Computer Applications (MCA)** at Rajarambapu Institute of Technology (RIT), Rajaramnagar (2025–2027).
+I build practical skills across **Java development, cloud computing, DevOps, and software engineering**.
 
-💻 Passionate about Cloud Computing, DevOps, Software Development, and building practical technology solutions.
+I enjoy turning ideas into usable applications, learning how systems are deployed and maintained, and exploring the tools that make software delivery more reliable. My current focus is building a strong foundation in Java, Spring Boot, AWS, Docker, Linux, CI/CD, and cloud infrastructure.
 
-- 🔭 Working on cloud-based applications and full-stack development projects.
-- ☁️ Exploring AWS, Google Cloud, Docker, Linux, and CI/CD.
-- 🌱 Improving my skills in Java, Spring Boot, cloud infrastructure, and automation.
-- 🤝 Interested in collaborating on open-source projects and innovative ideas.
-- 🎯 Career goal: Build a career as a Cloud Engineer or DevOps Engineer.
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/rohan-sapate-829551348).
+[LinkedIn](https://www.linkedin.com/in/rohan-sapate-829551348) · [GitHub](https://github.com/rohans5005) · [Email](mailto:rohans5005@gmail.com)
 
 ---
 
-## 🛠️ Technical Skills
+## Current Focus
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+| Area | What I am building toward |
+| --- | --- |
+| **Cloud Engineering** | Understanding AWS and Google Cloud services, cloud architecture, storage, deployment, and infrastructure fundamentals. |
+| **DevOps** | Practicing Docker, Linux, CI/CD pipelines, automation, version control, and reliable application delivery. |
+| **Java Development** | Improving Java, Spring Boot, REST APIs, backend architecture, and database-driven application development. |
+| **Software Projects** | Creating practical applications that combine clean interfaces, backend services, databases, and cloud technologies. |
 
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+## Technical Toolkit
+
+### Languages
+
+`Java` `Python` `C++` `JavaScript` `HTML5` `CSS3`
+
+### Backend & Application Development
+
+`Spring Boot` `REST APIs` `Web Development` `Full-Stack Development`
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+`AWS` `Google Cloud` `Docker` `Linux` `Git` `GitHub` `CI/CD`
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+`MySQL` `MongoDB` `Database Management` `CRUD Operations`
 
-## 🚀 Featured Projects
+## Selected Projects
 
-### ☁️ Ether-Store
-A cloud-based web application focused on cloud storage and file management.
+### Ether-Store
 
-**Technologies:** Java, Web Technologies, Cloud Computing
+A cloud-based web application focused on file storage and management. The project explores how cloud computing can support secure, accessible, and organized digital file workflows.
 
-### 🏨 Hostel Connect
-A web application designed to simplify hostel-related information and management.
+**Focus:** Java · Web Technologies · Cloud Computing
 
-**Technologies:** Java, Spring Boot, MySQL
+### Hostel Connect
 
-### ⚖️ LawLink
-A legal technology project focused on making legal information and resources more accessible.
+A web application designed to simplify hostel-related information and management. The project focuses on organizing hostel data and providing a more convenient experience for students and administrators.
 
-**Repository:** [LawLink on GitHub](https://github.com/Paras2611/LawLink)
+**Focus:** Java · Spring Boot · MySQL
 
-**Technologies:** Web Development, AI/ML, Legal Data
+### LawLink
 
-### 🎬 CineBook
-A movie ticket booking application designed to simplify browsing and booking movie tickets.
+A legal technology project focused on making legal information and resources more accessible through a technology-driven platform.
 
-**Technologies:** Java, Web Technologies, Database Management
+**Focus:** Web Development · AI/ML · Legal Data
 
-### 🌾 AgriMeds
-An online medical store project focused on medicine discovery and ordering.
+[View LawLink on GitHub](https://github.com/Paras2611/LawLink)
 
-**Technologies:** Web Development, Database Management
+### CineBook
 
----
+A movie ticket booking application designed to simplify movie discovery and ticket reservations through a structured web interface and database-backed workflow.
 
-## 📊 GitHub Statistics
+**Focus:** Java · Web Technologies · Database Management
 
-> Replace `YOUR_GITHUB_USERNAME` below with your exact GitHub username.
+### AgriMeds
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+An online medical store project focused on medicine discovery and ordering, with an emphasis on organized product information and database management.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+**Focus:** Web Development · Database Management
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+## How I Approach Development
 
----
+I value learning by building, keeping projects practical, and understanding how each layer of an application fits together. I aim to write readable code, use version control consistently, document what I learn, and improve projects through iteration rather than treating them as one-time experiments.
 
-## 🎯 Currently Learning
+For cloud and DevOps work, I am especially interested in repeatable deployments, containerized applications, automation, system reliability, and the connection between development and production environments.
 
-- AWS Cloud Services and cloud architecture
-- Docker and containerization
-- Linux system administration
-- CI/CD pipelines and DevOps practices
-- Java, Spring Boot, and REST APIs
-- Cloud infrastructure monitoring and automation
+## Learning Roadmap
 
----
+- AWS cloud services, cloud architecture, and deployment fundamentals
 
-## 🤝 Connect With Me
+- Docker, containerization, and Linux system administration
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohan-sapate-829551348)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+- CI/CD pipelines, automation, and DevOps practices
 
----
+- Java, Spring Boot, REST APIs, and backend development
 
-⭐ *"Keep learning, keep building, and keep improving."*
+- Cloud infrastructure monitoring and operational reliability
+
+- Database design, application security, and scalable software practices
+
+
+## Connect
+
+- **LinkedIn:** [linkedin.com/in/rohan-sapate-829551348](https://www.linkedin.com/in/rohan-sapate-829551348)
+
+- **GitHub:** [github.com/rohans5005](https://github.com/rohans5005)
+
+- **Email:** [rohans5005@gmail.com](mailto:rohans5005@gmail.com)
